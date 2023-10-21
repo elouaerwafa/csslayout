@@ -1,0 +1,260 @@
+.image{ 
+    width: 200px;
+}
+
+.nav justify-content-end{ justify-content: end;
+   
+
+}
+.nav:hover{
+    color: #00b39b;  
+
+}
+.aus{
+    color: #00b39b;
+}
+.have{
+    color: grey;
+}
+.arm{
+    color: grey;
+}
+.ph{
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    
+}
+.rem{
+    color: #00b39b;
+    text-align: center;
+    font-size: x-large;
+   
+
+
+}
+.paragraphe{
+    justify-content: space-between;
+    display: flex;
+   flex-direction: row;
+   margin-left: 250px;
+   margin-right: 250px;
+   justify-content: space-around;
+   margin-top: 50px;
+   color: gray;
+
+
+   
+}
+.card-img-top{
+    width: 50px;
+justify-content: space-between   ;
+margin: 50px;
+}
+.num1{
+    background-color:  #00b39b;
+    color: white;
+    margin-left: 50px;
+    width: 50px;
+}
+/* changement de couleur*/
+.num1:hover{
+    background-color:  #79b3ab;
+    color: white;
+    margin-left: 50px;
+    width: 50px;
+}
+.num2 {
+   background-color:#3d83df ;
+  color: white ;
+   margin-left: 50px;
+   width: 50px;
+   
+    width: 50px;
+ 
+}
+.num2:hover {
+    background-color:rgb(100, 100, 208) ;
+   color: white ;
+    margin-left: 50px;
+}
+/* margin et couleur */
+.num3{
+    background-color: black;
+    color: white;
+    margin-left: 50px;
+    margin-right:50px ;
+    width: 50px;
+}
+.num3:hover{
+    background-color:gray;
+    color: white;
+    margin-left: 50px;
+    margin-right:50px ;
+    width: 50px;
+}
+.gl{
+    color:#00b39b ;
+    margin-right:50px ;
+    margin-left: 50px;
+    margin-top: 30px;
+    font-size:x-large;
+
+}
+/* les photos*/
+.photo{
+    width: 70px;
+    float: right;
+    display: flex;
+  flex-direction: row;
+  justify-content: end;
+  margin-top: auto;
+  margin-left: 100px;
+  
+    
+}
+
+    
+.row row-cols-1 row-cols-md-2 g-4:hover{
+    background-color: white;
+    width: 50px;
+}
+.rio{
+    color: #00b39b;
+}
+
+.v{
+    color:#00b39b;
+    font-style: normal;
+    font-size: medium;
+    margin-left: 100px;
+    margin-right: 200px;
+}
+.card-img-top{
+    width: 100px;
+}
+.k{
+    background-color: #99e1d768;
+   
+}
+.card-text{
+    color: grey;
+
+}
+.icon{
+    background-color: #99e1d768;
+
+}
+.el{
+    width: 10000px;
+}
+
+
+.w{
+    background-color: #99e1d768;
+   
+}
+
+.photo2{
+    width: 500px;
+}
+.para{
+    margin-left: 100px;
+    margin-right: 200px;
+   
+}
+.changement{
+    color: #00b39b;
+margin-left:500px;
+margin-right: 200px;
+font-style: normal;
+   font-size: large;
+   white-space: pre-line;
+   word-wrap: break-word;
+   margin-top: 100px;
+   font-weight: 100;
+
+}
+.p2{
+    color: grey;
+    margin-left:500px;
+margin-right: 200px;
+font-style: normal;
+   font-size: large;
+   white-space: pre-line;
+   word-wrap: break-word;
+   
+   font-weight: 100;
+
+}
+.card-img-topp{
+    width: 300px;
+}
+.bb{
+   background-color: #3d83df;
+
+}
+.bb:hover{
+    background-color: blue;
+ 
+ }
+ .card-title{
+    color: grey;
+ }
+.cc{
+    margin-top: 10px;
+
+ }
+ .sa{
+    margin-left: 100px;
+ }
+ .pf{
+    margin-left: 500px;
+    margin-right: 500px;
+   
+ }
+ .wafa{
+    width: 900px;
+    margin-left: 300px;
+    margin-right: 300px;
+   
+ }
+ .B3{
+  background-color: #3d83df;
+  margin-left: 500PX;
+  margin-right: 500PX;
+  font-size: small;
+ }
+.jj:hover{
+    background-color: blue;
+}
+ .ca {
+    width:300px;
+   margin-left: 70px;
+   margin-top: 100px;
+   
+ }
+ .war{
+    width: 400px;
+   
+ }
+ .hhh{
+    float: right;
+    margin-left: 900px;
+    margin-top: -570px;
+   
+ }
+ .waga{
+    float:right;
+    height: -1000px;
+    
+ 
+ }
+ .mm{
+    margin-top: 50px;
+ }
+ 
